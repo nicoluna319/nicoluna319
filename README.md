@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://files.oaiusercontent.com/file-TLcHukeLRCW4IycTLOxV84Hw?se=2024-08-13T02%3A07%3A59Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D02aad843-e5de-4af0-95c0-191bdf81e110.webp&sig=dHimdcegUCAVoW6uvJiif3TdVQOXJy7A6tt9tmU/x0k%3D">
+    <img width="200" src="img/perrito.webp">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
